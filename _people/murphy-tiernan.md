@@ -1,18 +1,18 @@
 ---
-title: Murphy Tiernan
-date: 2017-11-14 10:47:11 +0000
+title: Mrs. Gbenle Abimbola
+date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
-sub_heading: Professor
-email: murphy@belkirkcollege.com
+thumbnail: "/uploads/2020/10/04/sis2-copy.jfif"
+sub_heading: Director
+email: gbenleBimbola@olaitanschools.com
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
+Doctor Murphy Tiernan joined Olaitan schools in 2008 as an administrative director.
 
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
+She received her MS.c in Electrical Electronic Engineering from University of Ilorin and also holds a BSc in Electrical Electronic Engineering in 2005.
 
-He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+She has through her contributions brought about a significant growth in the school and maintained excellent relations with the parents.
