@@ -1,23 +1,20 @@
 ---
 title: About
-date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+date: '2017-11-01T03:00:00.000+00:00'
+banner_image: "/uploads/2020/10/04/2020-04-13-11-04-3.jpeg"
+heading: About Olaitan Schools
+sub_heading: The foremost in pre-university education
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
-publish_date: 2017-12-01 04:00:00 +0000
+textline: An examination hall and student classes in a calm and tranquil environment.
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
-
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Olaitan Schools is without a doubt the boarding school everyone in Kwara state and it's environ has heard of and it is not without a reason, since we produce year after year students with the most outstanding academic performance in the country. Students in Olaitan Schools are highly intelligent, hardworking and committed to achieving highly. The school occupies a large site in the Kwara town of Offa, just an hour drive to the state capital where an airport can be accessed and less than a 3 minute walk from the national train station. It is no wonder than parent often put Olaitan Schools at the top of their list when looking at great boarding schools especially when they realise that the school boasts some of the finest facilities for Music, Science and Technology as well as the fantastic exam results that are so widely admired.
