@@ -13,8 +13,8 @@ layout: post
 banner_image: ''
 
 ---
-Welcome to the Belkirk College of Engineering Demo Site!
+Welcome to Olaitan Schools Site!
 
-This site allows you to explore Forestry's features and functionality, and is **not** meant to be used as a production website. To get started building your own site, please see our [documentation](https://forestry.io/docs/).
+Despite the vast range of other opportunities available to its students, the focus at Olaitan Schools is undeniably on the academics and students need to be able to keep up with the fast pace of learning. 
 
-Thank you for choosing to demo Forestry!
+For a bright and confident student willing to study hard in a stimulating boarding environment, this is a school that will tick all the boxes.
