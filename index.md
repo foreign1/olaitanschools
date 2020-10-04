@@ -20,10 +20,7 @@ services:
   heading: Commerce
   icon: "/uploads/2020/10/04/e-commerce-portable-network-graphics-clip-art-electronic-business-png-favpng-muhrf34mpmfdz7bjdt1ydfn2s.jpg"
 sub_heading: God is Able
-textline: |-
-  Olaitain Schools
-
-  Basic section
+textline: Olaitain Schools
 hero_button:
   text: Learn more
   href: "/about"
